@@ -1,0 +1,38 @@
+{
+  "Welcome to React": "Bienvenue à React et react-i18next",
+  "language-selector": {
+    "title": "Changer la langue",
+    "options": {
+      "ua": "Ukrainien",
+      "en": "Anglais",
+      "fr": "Français"
+    }
+  },
+  "products": {
+    "price-title": "des Prix:",
+    "desctiptionTitle": "Description",
+
+    "characteristics": {
+      "title": "Caractéristiques:",
+      "width": "Largeur: {{val, units}}",
+      "height": "Hauteur: {{val, units}}",
+      "deep": "Profond: {{val, units}}",
+      "volume": "Volume: {{val, units}}",
+      "weight": "Poids: {{val, units}}",
+      "deliveryDate": "la date de livraison: {{val, datetime}}"
+    },
+    "product-1": {
+      "title": "Bouteille d'eau en acier inoxydable",
+      "description": "Découvrez notre Bouteille d'eau en acier inoxydable, le compagnon parfait pour rester hydraté en déplacement. Fabriquée en acier inoxydable de haute qualité, elle est à la fois durable et élégante. Avec son design épuré, elle se glisse facilement dans votre sac ou le porte-gobelet de votre voiture, ce qui en fait l'idéal pour une utilisation quotidienne. Sa capacité de 500 ml vous assure d'avoir suffisamment d'eau pour rester rafraîchi tout au long de la journée."
+    },
+    "product-2": {
+      "title": "Tasse à café en céramique",
+      "description": "Dégustez votre café du matin avec style grâce à notre Tasse en céramique. Cette tasse magnifiquement conçue est fabriquée en céramique de haute qualité, offrant une excellente rétention de chaleur pour maintenir votre café au chaud. Sa poignée ergonomique assure une prise en main confortable, et sa capacité de 12 oz est parfaite pour votre café ou thé préféré."
+    },
+    "product-3": {
+      "title": "Vase en verre",
+      "description": "Rehaussez votre décoration intérieure avec notre Vase en verre. Cette élégante vase est fabriqué en verre transparent de haute qualité, permettant à vos fleurs ou à vos pièces décoratives de briller. Ses dimensions de 20 cm de hauteur, 10 cm de largeur et 7,5 cm de profondeur en font un centre polyvalent pour n'importe quelle pièce."
+    }
+  },
+  "price-range": "{{val, range}}"
+}

@@ -1,0 +1,38 @@
+{
+  "Welcome to React": "Welcome to React and react-i18next",
+  "language-selector": {
+    "title": "Change language",
+    "options": {
+      "ua": "Ukrainian",
+      "en": "English",
+      "fr": "French"
+    }
+  },
+  "products": {
+    "price-title": "Prices:",
+    "desctiptionTitle": "Description",
+
+    "characteristics": {
+      "title": "Characteristics:",
+      "width": "Width: {{val, units}}",
+      "height": "Height: {{val, units}}",
+      "deep": "Deep: {{val, units}}",
+      "volume": "Volume: {{val, units}}",
+      "weight": "Weight: {{val, units}}",
+      "deliveryDate": "Delivery Date: {{val, datetime}}"
+    },
+    "product-1": {
+      "title": "Stainless Steel Water Bottle",
+      "description": "Introducing our Stainless Steel Water Bottle, the perfect companion for staying hydrated on the go. Crafted from high-quality stainless steel, it's both durable and stylish. With a sleek design, it fits easily into your bag or car cup holder, making it ideal for daily use. Its 500ml capacity ensures you'll have enough water to keep you refreshed throughout the day."
+    },
+    "product-2": {
+      "title": "Ceramic Coffee Mug",
+      "description": "Enjoy your morning brew in style with our Ceramic Coffee Mug. This beautifully crafted mug is made from high-quality ceramic, providing excellent heat retention to keep your coffee hot. Its ergonomic handle ensures a comfortable grip, and the 12 oz capacity is perfect for your favorite coffee or tea."
+    },
+    "product-3": {
+      "title": "Glass Vase",
+      "description": "Elevate your home decor with our Glass Vase. This elegant vase is made of clear, high-quality glass, allowing your flowers or decorative pieces to shine. Its dimensions of 8 inches in height, 4 inches in width, and 3 inches in depth make it a versatile centerpiece for any room."
+    }
+  },
+  "price-range": "{{val, range}}"
+}
