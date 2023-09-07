@@ -7,7 +7,6 @@ export const ProductCharacteristicsSection = ({ product }) => {
   const { units, transformUnit } = useFormatSettings();
 
   const createTransformFunction = (baseUnit, targetUnit) => (value) => {
-    console.log();
     return transformUnit({
       value,
       from: baseUnit,
